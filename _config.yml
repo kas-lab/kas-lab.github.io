@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Hernandez Corbato / Academic Website"
+title                    : "Carlos Hernandez / Home"
 title_separator          : "-"
 name                     : &name "Dr. Carlos Hernandez Corbato"
 description              : &description "Assistant Professor at the Cognitive Robotics Department of TU Delft"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Carlos Hernandez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor on Cognitive Robotics"
   location         : "Delft, The Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
