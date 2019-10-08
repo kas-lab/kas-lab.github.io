@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ROSIN H2020 project"
+excerpt: "ROS-Industrial Quality-Assured Robot Software Components [rosin-project.eu](http://rosin-project.eu)<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
