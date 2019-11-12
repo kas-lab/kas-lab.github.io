@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=aZ6Cuh0AAAAJ&hl=en){:target="_blank"} profile.
 
+## Books
+J. L. Fernandez-S ́anchez and C. Hernandez. Practical Model Based Systems Engineering. Artech House, 2019.
+[[LINK]](https://us.artechhouse.com/Practical-Model-Based-Systems-Engineering-P2032.aspx){:target="_blank"}
+
+C. Hernandez, R. Sanz, J. Gomez-Ramirez, L. S. Smith, A. Hussain, A. Chella, and I. Aleksander. From Brains to Systems: Brain-Inspired Cognitive Systems 2010, volume 718 of Advances in Experimental Medicine and Biology. Springer, 2011.
+[[LINK]](http://dx.doi.org/10.1007/978-1-4614-0164-3){:target="_blank"}
+
 ## Journal Articles
 
 C. Hernández, J. Bermejo-Alonso, and R. Sanz. A self-adaptation
@@ -62,5 +69,4 @@ R. Sanz, C. Hernandez, and J. Gomez-Ramirez. From brains to the machines of the 
 
 R. Sanz, J. Gomez, I. Alarcon, and C. Hernandez. Thinking with the body: Towards hierarchical scalable cognition. In P. Calvo and T. Gomila, editors, Handbook of Cognitive Science: An Embodied Approach, pages 395–421. Elsevier Science Ltd, 2008.
 [[PDF]](/files/Sanz-2008a.pdf){:target="_blank"}
-
 
