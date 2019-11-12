@@ -52,3 +52,15 @@ C. Hern<span>á</span>ndez. Principles for consciousness in integrated
 cognitive control. Neural Networks, 20(9):938–946, November 2007.
 [[PDF]](/files/Sanz-2007.pdf){:target="_blank"}
 
+## Book Chapters
+
+C. Hernandez and M. Bharatheesha. A systems engineering analysis of robot motion for Team Delft’s APC winner 2016. In Robotic Item Picking - Applications in Warehouse & E-Commerce. Springer, in print.
+[[PDF]](/files/Hernandez-2019.pdf){:target="_blank"}
+
+R. Sanz, C. Hernandez, and J. Gomez-Ramirez. From brains to the machines of the future. In From Brains to Systems: Brain-Inspired Cognitive Systems 2010, pages 1–6. Springer, 2010.
+[[PDF]](/files/Sanz-2010d.pdf){:target="_blank"}
+
+R. Sanz, J. Gomez, I. Alarcon, and C. Hernandez. Thinking with the body: Towards hierarchical scalable cognition. In P. Calvo and T. Gomila, editors, Handbook of Cognitive Science: An Embodied Approach, pages 395–421. Elsevier Science Ltd, 2008.
+[[PDF]](/files/Sanz-2008a.pdf){:target="_blank"}
+
+
