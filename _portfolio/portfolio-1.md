@@ -1,6 +1,6 @@
 ---
 title: "ROSIN H2020 project (role: Coordinator)"
-excerpt: "ROS-Industrial Quality-Assured Robot Software Components [rosin-project.eu](http://rosin-project.eu)<br/><img src='https://rosin-project.eu/wp-content/uploads/2016-11-IPA-ROS-Events-16_CMKY-bearbeitet-blau.jpg' height='42'>"
+excerpt: "ROS-Industrial Quality-Assured Robot Software Components [rosin-project.eu](http://rosin-project.eu)<br/><img src='https://rosin-project.eu/wp-content/uploads/2016-11-IPA-ROS-Events-16_CMKY-bearbeitet-blau.jpg' height='12'>"
 collection: portfolio
 ---
 
