@@ -1,13 +1,34 @@
 ---
-title: "Factory-in-a-day - FP7 EU Project"
-excerpt: "The project [Factory-in-a-day](http://www.factory-in-a-day.eu/) aims at improving the competitiveness of European manufacturing SMEs by removing the primary obstacle for robot automation: installation time and installation cost. <br/><img src='http://www.factory-in-a-day.eu/wp-content/uploads/2017/06/Factory-in-a-day_banner-1170x424.jpg'>"
+title: "Team Delft - Amazon Picking Challenge 2016 "
+excerpt: "Role: team leader<br>
+Project type: Robotics Competition entry<br>
+As Team Delft, we won both the Picking and Stowing prizes at the Amazon Picking Challenge 2016<br/><img src='https://d1rkab7tlqy5f1.cloudfront.net/News/2016/07_July/RTEmagicC_Team_APC_04.jpg_1_.jpg' >"
 collection: portfolio
 ---
 
-The objective of this project is to marginalize the system integration cost by reducing the system integration time to one single day. The resultant 50% price reduction of fully integrated systems is not even the main effect. The really significant impact will be that the SME’s no longer have to earn back the investment through only one of their short production batches. In one day, the machines can be re-installed for another temporary product line and continue to be useful. Moreover, this opens up the possibility that the robots and other machinery are provided under short-term lease contracts to the SME’s, bringing the investment risk down to zero.
+**[Blog Team Delft]**(https://teamdelft-apc.blogspot.nl/)
 
-- Factory-in-a-day is funded by the Seventh Framework Programme of the European Union.
-- Supported by the Programme ICT Factories of the Future 2013 (FP7-2013-NMP-ICT-FoF).
-- Programme under grant agreement no 609206.
-- Funding period: 1. October 2013 – 30. September 2017.
-- Coordinator: TU Delft
+Team Delft was one of 16 finalists for the Amazon Picking Challenge, and is a collaboration between TU Delft Robotics Institute and the company Delft Robotics. The team built a flexible robot system based on industry standards. The system is equipped with a robot arm with seven degrees of freedom, high-quality 3D cameras and an in-house developed gripper.
+
+<img src='https://d1rkab7tlqy5f1.cloudfront.net/News/2016/07_July/RTEmagicC_Team_APC_04.jpg_1_.jpg'>
+
+To control the robot, the team integrated advanced software components based on state of the art artificial intelligent techniques and robotics. The components are developed with the Robot Operating System for industry (ROS-Industrial), and will be released as open software.
+
+## Videos
+
+Timelapse-video of the ‘stow task’ (Friday 1 July)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YdEMyqCvevo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Timelapse-video of the ‘pick task’ (Saturday 2 July)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gB8xXpkNjBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Publications
+
+C. Hernandez Corbato, M. Bharatheesha, J. van Egmond, J. Ju, and M. Wisse. **Integrating different levels of automation: Lessons from winning the amazon robotics challenge 2016**. IEEE Transactions on Industrial Informatics, PP(99):1–1,
+2018.
+**[[PDF]]**(/files/Hernandez-2018b.pdf){:target="_blank"}
+
+C. Hernandez _et al._  
+**Team Delft's Robot Winner of the Amazon Picking Challenge 2016**. RoboCup 2016: Robot World Cup XX, Lecture Notes in Computer Science, 613--624, 2017.**[[PDF]]**(/files/Hernandez-2017.pdf){:target="_blank"}
+
+
