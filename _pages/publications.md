@@ -91,13 +91,15 @@ R. Sanz, J. Gomez, I. Alarcon, and C. Hernandez. Thinking with the body: Towards
 [[PDF]](/files/Sanz-2008a.pdf){:target="_blank"}
 
 
-## Conference papers
+## Conference proceedings
 
 C. Hern\'andez, Z. Milosevic, C. Olivares, G. Rodriguez, and C. Rossi2.  
 **Meta-control and self awareness for the UX-1 autonomous underwater robot**. Fourth Iberian Robotics Conference, ROBOT'19, 2019.
 
 C. Hernandez, M. Bharatheesha, W. Ko, H. Gaiser, J. Tan, K. van Deurzen, M. de Vries, B. V. Mil, J. van Egmond, R. Burger, M. Morariu, J. Ju, X. Gerrmann, R. Ensing, J. van Frankenhuyzen, and M. Wisse.  
 [**Team Delft's Robot Winner of the Amazon Picking Challenge 2016**](http://arxiv.org/abs/1610.05514). RoboCup 2016: Robot World Cup XX, Lecture Notes in Computer Science, 613--624, 2017.
+
+M. Bharatheesha, N. Gitfsun, G. Dumonteil, C. Hernandez and M. Wisse. **Dynamic Obstacle Avoidance for Collaborative Robot Applications**. Workshop on IC3 - Industry of the future: Collaborative, Connected, Cognitive. Novel approaches stemming from Factory of the Future and Industry 4.0 initiatives, IEEE International Conference on Robotics and Automation (ICRA), Singapore, May 2017. [[PDF]](/files/Hernandez-2017.pdf)
 
 C. Hernandez and J. L. Fernandez-Sanchez.  
 [**Model-based systems engineering to design collaborative robotics applications**](http://dx.doi.org/10.1109/SysEng.2017.8088258). 2017 IEEE International Systems Engineering Symposium (ISSE), 1-6, 2017.
