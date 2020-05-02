@@ -5,10 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=aZ6Cuh0AAAAJ&hl=en){:target="_blank"} profile.
+A complete list of my publications is available in my [Google Scholar profile](https://scholar.google.com/citations?user=aZ6Cuh0AAAAJ&hl=en){:target="_blank"}.
+
+## Selected Publications
+
+C. Hernández, J. Bermejo-Alonso, and R. Sanz. **A self-adaptation framework based on functional knowledge for augmented autonomy in robots**. Integrated Computer-Aided Engineering, 25(2):157–172, 2018.
+**[[PDF]]**(/files/Hernandez-2018a.pdf){:target="_blank"}
+
+C. Hernandez Corbato, M. Bharatheesha, J. van Egmond, J. Ju, and M. Wisse. **Integrating different levels of automation: Lessons from winning the amazon robotics challenge 2016**. IEEE Transactions on Industrial Informatics, PP(99):1–1,
+2018.
+**[[PDF]]**(/files/Hernandez-2018b.pdf){:target="_blank"}
+
+C. Hernandez _et al._  
+**Team Delft's Robot Winner of the Amazon Picking Challenge 2016**. RoboCup 2016: Robot World Cup XX, Lecture Notes in Computer Science, 613--624, 2017.**[[PDF]]**(/files/Hernandez-2017.pdf){:target="_blank"}
+
+## Thesis
+**(PhD)** Model-based Self-awareness Patterns for Autonomy  
+Carlos Hernandez, Universidad Politécnica de Madrid 2013 **[[PDF]]**(/files/Hernandez-2013a.pdf){:target="_blank"}
+
+**(MSc)** Adding Consciousness to Cognitive Architectures  
+Carlos Hernandez, Universidad Politécnica de Madrid 2008 **[[PDF]]**(/files/Hernandez-2008.pdf){:target="_blank"}
+
 
 ## Books
-J. L. Fernandez-S ́anchez and C. Hernandez. Practical Model Based Systems Engineering. Artech House, 2019.
+J. L. Fernandez-Sanchez and C. Hernandez. Practical Model Based Systems Engineering. Artech House, 2019.
 [[LINK]](https://us.artechhouse.com/Practical-Model-Based-Systems-Engineering-P2032.aspx){:target="_blank"}
 
 C. Hernandez, R. Sanz, J. Gomez-Ramirez, L. S. Smith, A. Hussain, A. Chella, and I. Aleksander. From Brains to Systems: Brain-Inspired Cognitive Systems 2010, volume 718 of Advances in Experimental Medicine and Biology. Springer, 2011.
