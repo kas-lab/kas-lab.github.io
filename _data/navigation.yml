@@ -11,6 +11,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+    
+  - title: "Opportunities"
+    url: /opportunities/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
