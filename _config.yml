@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Hernandez / Home"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Dr. Carlos Hernandez Corbato"
-description              : &description "Assistant Professor at the Cognitive Robotics Department of TU Delft"
-url                      : https://chcorbato.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "KAS Lab"
+description              : &description "Knowledge-based Autonomous Systems Laboratory of the TU Delft Cognitive Robotics department"
+url                      : https://kas-lab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chcorbato/chcorbato.github.io"
+repository               : "kas-lab/kas-lab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Carlos Hernandez"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor on Cognitive Robotics"
+  name             : "KAS Lab"
+  avatar           : "small_kas_logo.jpg"
+  bio              : "Knowledge-based Autonomous Systems Laboratory"
   location         : "Delft, The Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=aZ6Cuh0AAAAJ&hl=en"
+  googlescholar    :
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Carlos_Hernandez_Corbato"
+  researchgate     : "https://www.researchgate.net/lab/KAS-Lab-TU-Delft-Cognitive-Robotics-Department-Carlos-Hernandez-Corbato"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chcorbato"
+  github           : "kas-lab"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-6094-4917"
+  orcid            : #"http://orcid.org/0000-0001-6094-4917"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@chcorbato"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UChvsblx9fihHwoqUQJE41yA"
   wikipedia        :
 
 
