@@ -1,25 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/
-  #
-  - title: "Projects"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
-    
-#   - title: "Opportunities"
-#     url: /opportunities/
 
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Software"
+    url: /software/
 
-#  - title: "CV"
-#   url: /cv/
+  - title: "Team"
+    url: /team/
 
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Join us"
+    url: /joinus/
+
