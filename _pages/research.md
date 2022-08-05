@@ -10,7 +10,6 @@ redirect_from:
 # Research
 
 ## Projects
-(coming soon)
+## [Projects](projects)
 
-## Publications
-(coming soon)
+## [Publications](publications)
