@@ -1,6 +1,6 @@
 ---
-permalink: /join-usresearch us"
-excerpt: "Research"
+permalink: /research/
+title: "Research"
 author_profile: true
 redirect_from: 
   - /research
