@@ -7,11 +7,11 @@ author_profile: true
 
 ## Courses
 
-### [(RO47014) Knowledge Representation and Symbolic Reasoning]()
-_Program_: [MSc Robotics]()
+### [(RO47014) Knowledge Representation and Symbolic Reasoning](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61240)
+_Program_: [MSc Robotics](https://www.tudelft.nl/onderwijs/opleidingen/masters/robotics/msc-robotics)
 
-### [(RO47007) Multidisciplinary project]()
-_Program_: [MSc Robotics]()
+### [(RO47007) Multidisciplinary project](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61236)
+_Program_: [MSc Robotics](https://www.tudelft.nl/onderwijs/opleidingen/masters/robotics/msc-robotics)
 
 ### [Robot Operating System (ROS) MOOC](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system)
  
