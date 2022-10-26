@@ -18,6 +18,6 @@ We develop novel methods in knowledge representation and reasoning for autonomou
 ### Who
 Our methods will help roboticist develop more **reliable**, **trustworthy** and **explainable** robots.
 
-## [Projects](research/projects)
+## [Projects](portfolio)
 
-## [Publications](research/publications)
+## [Publications](publications)
