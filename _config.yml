@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "KAS Lab"
-  avatar           : "small_kas_logo.jpg"
+  avatar           : "kas_logo.png"
   bio              : "Knowledge-based Autonomous Systems Laboratory"
   location         : "Delft, The Netherlands"
   employer         :
