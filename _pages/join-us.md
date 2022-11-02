@@ -1,9 +1,9 @@
 ---
-permalink: /join-us
+permalink: /join-us/
 title: "Join us"
 excerpt: "Join us"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /join-us
   - /join-us.html
 ---
