@@ -13,6 +13,9 @@ author_profile: true
 
 * [(RO47007) Multidisciplinary project](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61236)
 
+### Program: EWI Electives Service-Education (TUDelft-wide free electives)
+
+* [(IFEEMCS520100) Fundamentals of Artificial Intelligence Programme: Symbolic AI](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63120)
 
 ### Online Courses
 * [Robot Operating System (ROS)](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system)
