@@ -7,15 +7,15 @@ author_profile: true
 
 <!-- ## Current members
 
-### Team Lead
-- **Carlos Hernandez Corbato**:
+### Lab director
+- **[Carlos Hernandez Corbato](https://chcorbato.github.io/)** _c.h.corbato at tudelft.nl_:
     - Reasearching on autonomous systems, control architectures, self-adaptive systems, robot software, knowledge representation and reasoning, model-based systems engineering
-    - [GitHub](https://github.com/chcorbato), [Google Scholar](https://scholar.google.com/citations?user=aZ6Cuh0AAAAJ&hl=en)
+    - [GitHub](https://github.com/chcorbato), [Google Scholar](https://scholar.google.com/citations?user=aZ6Cuh0AAAAJ&hl=en), [GitHub](https://github.com/PierreMercuriali), [@chcorbato @Twitter](https://twitter.com/chcorbato)
 
 ### Post-Docs
 - **Pierre Mercuriali**:
     - Knowledge representation of cognitive processes and motion grammars to model tool creation
-    - [GitHub](https://github.com/PierreMercuriali), [Google Scholar](https://scholar.google.com/citations?user=OxADq64AAAAJ&hl=en&oi=ao)
+    - [Google Scholar](https://scholar.google.com/citations?user=OxADq64AAAAJ&hl=en&oi=ao)
 - **Alexander Gabriel**:
     - Working on CoreSense project.
     - [Google Scholar](https://scholar.google.com/citations?user=yzx7nxcAAAAJ&hl=en)

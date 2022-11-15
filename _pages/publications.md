@@ -9,29 +9,23 @@ A complete list of my publications is available in my [Google Scholar profile](h
 
 ## Selected Publications
 
-C. Hernández, J. Bermejo-Alonso, and R. Sanz. **A self-adaptation framework based on functional knowledge for augmented autonomy in robots**. Integrated Computer-Aided Engineering, 25(2):157–172, 2018.
-**[[PDF]]**(/files/Hernandez-2018a.pdf){:target="_blank"}
+D. Bozhinoski, M. G. Oviedo, N. H. Garcia, H. Deshpande, G. van der Hoorn, J. Tjerngren, A. Wasowski, and C. H. Corbato. **MROS: runtime adaptation for robot control architectures**. Advanced Robotics, 0(0):1– 17, 2022. [[PDF]](https://research.tudelft.nl/files/96578818/A_Modeling_Tool_for_Reconfigurable_Skills_in_ROS.pdf){:target="_blank"}
+
+C. Pezzato, R. Ferrari, and C. Hernandez Corbato. **A novel adaptive controller for robot manipulators based on active inference**. IEEE Robotics and Automation Letters, 5(2):2973–2980, 2020. [[PDF]](https://research.tudelft.nl/files/75521158/09000729.pdf){:target="_blank"}
+
+C. Hernandez Corbato, J. Bermejo-Alonso, and R. Sanz. **A self-adaptation framework based on functional knowledge for augmented autonomy in robots**. Integrated Computer-Aided Engineering, 25(2):157–172, 2018.
+[[PDF]](/files/Hernandez-2018a.pdf){:target="_blank"}
 
 C. Hernandez Corbato, M. Bharatheesha, J. van Egmond, J. Ju, and M. Wisse. **Integrating different levels of automation: Lessons from winning the amazon robotics challenge 2016**. IEEE Transactions on Industrial Informatics, PP(99):1–1,
 2018.
-**[[PDF]]**(/files/Hernandez-2018b.pdf){:target="_blank"}
-
-C. Hernandez _et al._  
-**Team Delft's Robot Winner of the Amazon Picking Challenge 2016**. RoboCup 2016: Robot World Cup XX, Lecture Notes in Computer Science, 613--624, 2017.**[[PDF]]**(/files/Hernandez-2017.pdf){:target="_blank"}
-
-## Thesis
-**(PhD)** Model-based Self-awareness Patterns for Autonomy  
-Carlos Hernandez, Universidad Politécnica de Madrid 2013 **[[PDF]]**(/files/Hernandez-2013a.pdf){:target="_blank"}
-
-**(MSc)** Adding Consciousness to Cognitive Architectures  
-Carlos Hernandez, Universidad Politécnica de Madrid 2008 **[[PDF]]**(/files/Hernandez-2008.pdf){:target="_blank"}
+[[PDF]](/files/Hernandez-2018b.pdf){:target="_blank"}
 
 
 ## Books
-J. L. Fernandez-Sanchez and C. Hernandez. Practical Model Based Systems Engineering. Artech House, 2019.
+J. L. Fernandez-Sanchez and C. Hernandez. _Practical Model Based Systems Engineering_. Artech House, 2019.
 [[LINK]](https://us.artechhouse.com/Practical-Model-Based-Systems-Engineering-P2032.aspx){:target="_blank"}
 
-C. Hernandez, R. Sanz, J. Gomez-Ramirez, L. S. Smith, A. Hussain, A. Chella, and I. Aleksander. From Brains to Systems: Brain-Inspired Cognitive Systems 2010, volume 718 of Advances in Experimental Medicine and Biology. Springer, 2011.
+C. Hernandez, R. Sanz, J. Gomez-Ramirez, L. S. Smith, A. Hussain, A. Chella, and I. Aleksander. _From Brains to Systems: Brain-Inspired Cognitive Systems 2010_, volume 718 of Advances in Experimental Medicine and Biology. Springer, 2011.
 [[LINK]](http://dx.doi.org/10.1007/978-1-4614-0164-3){:target="_blank"}
 
 ## Journal Articles
@@ -63,7 +57,7 @@ C. Hern<span>á</span>ndez. An ontological framework for autonomous
 systems modelling. International Journal on Advances in Intelligent Systems, 3(3):211–225, 2010.
 [[PDF]](/files/Bermejo-Alonso-2010.pdf){:target="_blank"}
 
-C. Hernandez, I. Lopez, and R. Sanz. The operative mind: a functional,
+C. Hernandez, I. Lopez, and R. Sanz. The Operative Mind: a functional,
 computational and modeling approach to machine consciousness. International Journal of Machine Consciousness,
 1(01):83–98, 2009.
 [[PDF]](/files/Hernandez-2009.pdf){:target="_blank"}
