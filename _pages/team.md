@@ -98,7 +98,7 @@ author_profile: true
                 <h3 class="u-align-center u-text u-text-3">
                   <a href="https://www.linkedin.com/in/corrado-pezzato/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">Corrado Pezzato</a>
                 </h3>                <img class="u-image u-image-circle u-image-1" src="people/corrado.png" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-4"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to get in touch.</p>
+                <p class="u-align-center u-text u-text-4"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my <a href="https://scholar.google.com/citations?user=KNMc_NsAAAAJ&hl=en">publications</a> or <a href="https://github.com/cpezzato">Github</a> page if you want to know more, or feel free to get in touch.</p>
                 <h6 class="u-align-center u-text u-text-5">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
                 </h6>
               </div>
