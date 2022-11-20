@@ -78,7 +78,7 @@ author_profile: true
                 <h3 class="u-align-center u-text u-text-2">
                   <a href="https://www.linkedin.com/in/carlos-hern%C3%A1ndez-corbato-0512505/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">Carlos Hernandez Corbato</a>
                 </h3>                <img class="u-image u-image-circle u-image-1" src="people/carlos.png" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-3"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
+                <p class="u-align-center u-text u-text-3"> I am an assistant professor at Delft University of Technology in the faculty of Mechanical, Maritime, and Materials Engineering (<a href="https://www.tudelft.nl/en/3me/">3ME</a>) in the department of Cognitive Robotics (<a href="https://www.tudelft.nl/en/3me/organisation/departments/cognitive-robotics-cor/">CoR</a>). My goal is to develop autonomous robots that are aware and adaptable, so we can trust their operation in complex and uncertain environments. I lead the Knowledge-based Autonomous Systems Lab since its creation in 2019.</p>
                 <h6 class="u-align-center u-text u-text-4">Contact me:&nbsp; <span class="u-text-palette-4-base">c.h.corbato@tudelft.nl</span>
                 </h6>
               </div>
