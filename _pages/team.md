@@ -194,9 +194,9 @@ author_profile: true
                 <h3 class="u-align-center u-text u-text-3">
                   <a href="https://www.linkedin.com/in/darko-bozhinoski-ph-d-75bbb629/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1"> Darko Bozhinoski</a>
                 </h3>                <img class="u-image u-image-circle u-image-1" src="people/darko.jpg" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-4"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
+                <!-- <p class="u-align-center u-text u-text-4"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
                 <h6 class="u-align-center u-text u-text-5">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
-                </h6>
+                </h6> -->
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
@@ -204,9 +204,9 @@ author_profile: true
                 <h3 class="u-align-center u-text u-text-6">
                   <a href="https://www.linkedin.com/in/mario-garzon/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-3"> Mario Garzon</a>
                 </h3>                <img class="u-image u-image-circle u-image-2" src="people/mario.png" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-7"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
+                <!-- <p class="u-align-center u-text u-text-7"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
                 <h6 class="u-align-center u-text u-text-8">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
-                </h6>
+                </h6> -->
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
@@ -215,9 +215,9 @@ author_profile: true
                   <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-5" href="https://www.linkedin.com/in/esther-aguado-gonz%C3%A1lez-9ba73b182/">Esther Aguado</a> 
                 </h3>
                 <img class="u-image u-image-circle u-image-3" src="people/esther.jpg" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-10"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
+                <!-- <p class="u-align-center u-text u-text-10"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
                 <h6 class="u-align-center u-text u-text-11">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
-                </h6>
+                </h6> -->
               </div>
             </div>
           </div>
