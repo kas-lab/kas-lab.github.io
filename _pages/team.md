@@ -108,8 +108,8 @@ author_profile: true
                 <h3 class="u-align-center u-text u-text-6">
                   <a href="https://www.linkedin.com/in/gustavo-rezende-a1326731/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-3">Gustavo&nbsp; Rezende</a>
                 </h3>                <img class="u-image u-image-circle u-image-2" src="people/gustavo.png" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-7"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
-                <h6 class="u-align-center u-text u-text-8">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
+                <p class="u-align-center u-text u-text-7"> I'm Gustavo, I work on knowledge-based self-adaptive robotic systems with application to underwater autonomous vehicles (AUV). I am part of the REMARO project. Have a look at my <a href="https://github.com/Rezenders">Github</a>, or <a href="https://scholar.google.com/citations?user=CpkcBHYAAAAJ&hl=en&oi=ao">publications.</a></p>
+                <h6 class="u-align-center u-text u-text-8">Contact me:&nbsp; <span class="u-text-palette-4-base">g.rezendesilva@tudelft.nl</span>
                 </h6>
               </div>
             </div>
@@ -118,8 +118,8 @@ author_profile: true
                 <h3 class="u-align-center u-text u-text-9">
                   <a href="https://www.linkedin.com/in/elvin-alberts-a0294b125/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-5">Elvin Alberts</a>
                 </h3>                <img class="u-image u-image-circle u-image-3" src="people/elvin.jpg" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-10"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
-                <h6 class="u-align-center u-text u-text-11">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
+                <p class="u-align-center u-text u-text-10"> I am Elvin, and I am addressing runtime uncertainty in robotics systems through software with generalizable and extensible solutions. Here my <a href="https://scholar.google.com/citations?user=7j3QibkAAAAJ&hl=en&oi=sra">publications.</a> </p>
+                <h6 class="u-align-center u-text u-text-11">Contact me:&nbsp; <span class="u-text-palette-4-base">e.g.alberts@vu.nl</span>
                 </h6>
               </div>
             </div>
@@ -135,8 +135,8 @@ author_profile: true
               <div class="u-container-layout u-similar-container u-container-layout-1">
                 <h3 class="u-align-center u-text u-text-1">Eugenio Tamassia</h3>
                 <img class="u-image u-image-circle u-image-1" src="people/eugenio.jpg" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-2"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
-                <h6 class="u-align-center u-text u-text-3">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
+                <p class="u-align-center u-text u-text-2"> Hi, my name is Eugenio and I work on self-aware robots for tool making and tool use. I am part of the METATOOL and CoreSense projects</p>
+                <h6 class="u-align-center u-text u-text-3">Contact me:&nbsp; <span class="u-text-palette-4-base">eugenio.tamassia@gmail.com</span>
                 </h6>
               </div>
             </div>
@@ -165,8 +165,8 @@ author_profile: true
                 <h3 class="u-align-center u-text u-text-3">
                   <a href="https://www.linkedin.com/in/pierre-mercuriali-8aa885aa/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">Pierre Mercuriali</a>
                 </h3>                <img class="u-image u-image-circle u-image-1" src="people/pierre.png" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-4"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
-                <h6 class="u-align-center u-text u-text-5">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
+                <!-- <p class="u-align-center u-text u-text-4"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p> -->
+                <h6 class="u-align-center u-text u-text-5">Contact me:&nbsp; <span class="u-text-palette-4-base">p.r.mercuriali@tudelft.nl</span>
                 </h6>
               </div>
             </div>
@@ -174,8 +174,8 @@ author_profile: true
               <div class="u-container-layout u-similar-container u-container-layout-2">
                 <h3 class="u-align-center u-text u-text-6">Alexander Gabriel</h3>
                 <img class="u-image u-image-circle u-image-2" src="people/alexander.jpeg" alt="" data-image-width="400" data-image-height="265">
-                <p class="u-align-center u-text u-text-7"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p>
-                <h6 class="u-align-center u-text u-text-8">Contact me:&nbsp; <span class="u-text-palette-4-base">c.pezzato@tudelft.nl</span>
+                <!-- <p class="u-align-center u-text u-text-7"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p> -->
+                <h6 class="u-align-center u-text u-text-8">Contact me:&nbsp; <span class="u-text-palette-4-base">a.gabriel@tudelft.nl</span>
                 </h6>
               </div>
             </div>
