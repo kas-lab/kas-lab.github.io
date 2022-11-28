@@ -1,7 +1,16 @@
 # main links links
 main:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+
   - title: "Research"
     url: /research/
+    children: "Education"
 
   - title: "Education"
     url: /education/
@@ -14,4 +23,3 @@ main:
 
   - title: "Join us"
     url: /join-us/
-
