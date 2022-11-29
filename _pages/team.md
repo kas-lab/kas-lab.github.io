@@ -163,8 +163,8 @@ author_profile: true
               <div class="u-container-layout u-similar-container u-container-layout-1">
                 <h3 class="u-align-center u-text u-text-3">
                   <a href="https://www.linkedin.com/in/pierre-mercuriali-8aa885aa/" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">Pierre Mercuriali</a>
-                </h3>                <img class="u-image u-image-circle u-image-1" src="people/pierre.png" alt="" data-image-width="400" data-image-height="265">
-                <!-- <p class="u-align-center u-text u-text-4"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p> -->
+                </h3><img class="u-image u-image-circle u-image-1" src="people/pierre.png" alt="" data-image-width="400" data-image-height="265">
+                    <p class="u-align-center u-text u-text-4">Hi! I'm Pierre. I work on knowledge representation of cognitive processes and motion grammars to model tool creation as part of the METATOOL project. More on my <a href="https://pierremercuriali.github.io/">website</a>. </p>
                 <h6 class="u-align-center u-text u-text-5">Contact me:&nbsp; <span class="u-text-palette-4-base">p.r.mercuriali@tudelft.nl</span>
                 </h6>
               </div>
