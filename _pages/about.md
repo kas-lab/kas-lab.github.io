@@ -1,18 +1,17 @@
 ---
 permalink: /
-title: "About us"
-excerpt: "About us"
+title: "KAS lab"
+excerpt: "KAS lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## About KASlab
+KASlab is a research team at Delft University of Technology. Our research focuses on methods to develop the complete intelligent control system of autonomous robots that can operate in the real world. For this, we are inspired by biological "awareness" and systems engineering to develop hybrid cognitive architectures to make robots more autonomous, realiable and trustworthy.
 
-## Research Vision
- (coming soon)
-
-### Research keywords
- _autonomous systems, control architectures, self-adaptive systems, robot software, knowledge representation and reasoning, model-based systems engineering_
+<!-- ### Research keywords
+ _autonomous systems, control architectures, self-adaptive systems, robot software, knowledge representation and reasoning, model-based systems engineering_ -->
 
 ### Research Highlights
 

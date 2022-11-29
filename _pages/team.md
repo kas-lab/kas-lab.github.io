@@ -15,7 +15,6 @@ author_profile: true
 ### Post-Docs
 - **Pierre Mercuriali**:
     - Knowledge representation of cognitive processes and motion grammars to model tool creation
-    - [Google Scholar](https://scholar.google.com/citations?user=OxADq64AAAAJ&hl=en&oi=ao)
 - **Alexander Gabriel**:
     - Working on CoreSense project.
     - [Google Scholar](https://scholar.google.com/citations?user=yzx7nxcAAAAJ&hl=en)
