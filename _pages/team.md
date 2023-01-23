@@ -173,7 +173,7 @@ author_profile: true
               <div class="u-container-layout u-similar-container u-container-layout-2">
                 <h3 class="u-align-center u-text u-text-6">Alexander Gabriel</h3>
                 <img class="u-image u-image-circle u-image-2" src="people/alexander.jpeg" alt="" data-image-width="400" data-image-height="265">
-                <!-- <p class="u-align-center u-text u-text-7"> Hi there! I am Corrado and I work in the domain of task and motion planning for mobile manipulation in retail. I am part of AIRLab. Have a look at my publications or Github page if you want to know more, or feel free to contact me.</p> -->
+                <p class="u-align-center u-text u-text-7">The goal of my research is the development of aware and understanding agents for real world environments. At TU Delft, I'm part of the CoreSense project, where we develop an awareness architecture for robots and autonomous systems. Feel free to get in touch.</p>
                 <h6 class="u-align-center u-text u-text-8">Contact me:&nbsp; <span class="u-text-palette-4-base">a.gabriel@tudelft.nl</span>
                 </h6>
               </div>
